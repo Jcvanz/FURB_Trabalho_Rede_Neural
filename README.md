@@ -75,3 +75,4 @@ O perceptron acertou **100%** dos casos após poucas épocas de treinamento, con
 <p align="center">
   FURB — Universidade Regional de Blumenau &nbsp;|&nbsp; Processamento de Imagem
 </p>
+
