@@ -48,7 +48,8 @@ Onde `η` é a taxa de aprendizado e `(y - ŷ)` é o erro cometido. O processo s
 
 ```
 📁 trabalho_rede_neural/
-├── perceptron_jogador_piloto.ipynb   # notebook principal com a implementação
+├── perceptron.ipynb   # notebook principal com a implementação
+├── Trabalho prático Rede Neural - Enunciado.pdf   # Enunciado do trabalho
 └── README.md
 ```
 
@@ -56,7 +57,7 @@ Onde `η` é a taxa de aprendizado e `(y - ŷ)` é o erro cometido. O processo s
 
 ## Como executar
 
-1. Abra o arquivo `perceptron_jogador_piloto.ipynb` no Jupyter Notebook ou VS Code
+1. Abra o arquivo `perceptron.ipynb` no Jupyter Notebook ou VS Code
 2. Execute as células em ordem
 3. O resultado final mostra a classificação de cada atleta e a acurácia do modelo
 
